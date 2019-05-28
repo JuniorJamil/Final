@@ -6,5 +6,7 @@ void main() {
 
 
 	cout << "Hello";
+
+	cout << "sdaiowdmawd";
 	system("pause");
 }
